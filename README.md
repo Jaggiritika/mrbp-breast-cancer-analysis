@@ -86,9 +86,7 @@ If you use this pipeline in your research, please cite:
 - TCGAbiolinks: Colaprico A, et al. (2016) TCGAbiolinks: an R/Bioconductor package for integrative analysis of TCGA data. Nucleic Acids Research, 44(8):e71.
 - DESeq2: Love MI, et al. (2014) Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biology, 15:550.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
