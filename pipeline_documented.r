@@ -12,9 +12,8 @@
 # - Pathway enrichment analysis
 # - Visualization (heatmaps, PCA, Venn diagrams)
 #
-# Author: [Your Name]
-# Date: [Current Date]
-# Purpose: Data Research Assistant Interview - UCL
+# Author: Ritika Jaggi
+# Date: May 2025
 # =============================================================================
 
 # =============================================================================
@@ -39,7 +38,7 @@ query <- GDCquery(
 )
 
 # Download the queried data
-# Note: This will download a large amount of data (~GB)
+# Note: This will download a large amount of data (~ 6GB)
 GDCdownload(query)
 
 # Prepare the downloaded data into a SummarizedExperiment object
